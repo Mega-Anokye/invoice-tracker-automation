@@ -188,6 +188,8 @@ This project didn't require a single line of traditional code — it required tr
 
 If you're building something similar on Microsoft 365 and hitting walls with file uploads, loop scoping, or multi-entity primary keys — happy to compare notes.
 
+## Full Documentation
+[Download the complete technical documentation (PDF)](docs/Invoice_Tracker_v2_Documentation.pdf)
 ---
 
 *Mega Anokye — Business Analyst & Process Automation Specialist, Tolaram Group, MPL Ghana*
