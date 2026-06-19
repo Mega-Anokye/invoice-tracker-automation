@@ -1,4 +1,4 @@
-# invoice-tracker-automation
+# Invoice-Tracker-Automation
 # Building an Invoice Approval & Two-Stage Payment System with Power Automate (No Code, Just Logic)
 
 *How I replaced a manual, multi-team invoice process with four connected flows, a relational SharePoint structure, and zero new software spend.*
