@@ -188,6 +188,17 @@ This project didn't require a single line of traditional code — it required tr
 
 If you're building something similar on Microsoft 365 and hitting walls with file uploads, loop scoping, or multi-entity primary keys — happy to compare notes.
 
+---
+
+## Connect
+
+If you're building something similar on Microsoft 365 or want to discuss process automation, connect with me on LinkedIn:
+
+**[Mega Anokye on LinkedIn](https://www.linkedin.com/in/mega-anokye/)**  
+**[Full project write-up](https://www.linkedin.com/pulse/building-invoice-approval-two-stage-payment-system-power-mega-anokye-7tjvf/)**
+
+*If this repo helped you, a ⭐ star goes a long way.*
+
 ## Full Documentation
 [Download the complete technical documentation (PDF)](docs/Invoice_Tracker_v2_Documentation.pdf)
 ---
